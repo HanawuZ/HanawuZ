@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm HanawuZ</h1>
-<h3 align="center">A passionate Programmer,fullstack developer, Machine learning engineer or something else from Thailand</h3>
+<h3 align="center">A passionate Programmer, fullstack developer, Machine learning engineer or something else from Thailand</h3>
 
 
 <p align="center"> 
