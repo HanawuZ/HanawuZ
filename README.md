@@ -70,11 +70,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Stats:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanawuz&show_icons=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanawuz&layout=compact&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanawuz&show_icons=true&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanawuz&layout=compact&theme=react" />
 </div>
 
-
+## ✨ Red Ribbon Projects ✨
+[![Team05](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react)](https://github.com/HanawuZ/team05)
 <!---
 hanawuz/hanawuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
