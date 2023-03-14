@@ -19,13 +19,17 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanawuz&layout=compact&theme=tokyonight&column=4&margin-w=5&margin-h=5" alt="HanawuZ" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanawuz&layout=compact&theme=tokyonight&column=6&margin-w=5&margin-h=5" alt="HanawuZ" /></a> 
 </p>
 
-<p align="left">
-</p>
+## 👨‍💻 Abilities
+![Python Programming](https://img.shields.io/badge/Python%20Programming-brightgreen?style=for-the-badge)
+![Python Programming](https://img.shields.io/badge/Java%20Programming-D9AA46?style=for-the-badge)
+![Fullstack](https://img.shields.io/badge/Fullstack%20Development-cyan?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-darkgreen?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Thing(Beginner)-darkcyan?style=for-the-badge)
 
-## 👨‍💻 Languages and Tools
+## 💻 Languages and Tools
 ### Main
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -62,13 +66,10 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-<h3 align="left">Stats:</h3>
+## 📈 Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanawuz&show_icons=true&theme=react" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanawuz&layout=compact&theme=react" />
