@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -63,7 +64,13 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+### Currently Learning
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 📈 Stats
 <div align="center">
@@ -73,6 +80,9 @@ Here are some ideas to get you started:
 
 ## ✨ Red Ribbon Projects ✨
 [![Team05](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react)](https://github.com/HanawuZ/team05)
+[![Prompt Lab Fe](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react)](https://github.com/promptlabth/promptlab-fe)
+[![FoodFinder BE](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react)](https://github.com/HanawuZ/foodfinder)
+
 <!---
 hanawuz/hanawuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
