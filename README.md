@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 </div>
 
 ## ✨ Red Ribbon Projects ✨
+[![Team 05](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react)](https://github.com/HanawuZ/team05)
 [![Prompt Lab Fe](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react)](https://github.com/promptlabth/promptlab-fe)
 [![FoodFinder BE](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react)](https://github.com/HanawuZ/foodfinder)
 
