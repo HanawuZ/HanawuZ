@@ -14,19 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm HanawuZ</h1>
-<h3 align="center">A passionate Programmer, fullstack developer, Machine learning engineer or something else from Thailand</h3>
 
+<h1 align="center">Hi 👋, I'm HanawuZ</h1>
+<p style="text-align: justify;">
+  <strong>
+  As a novice developer with experience in the agile development process, I possess knowledge of software design, development, and testing. Proficient in implementing complex backend systems and creating   intuitive, responsive websites, I am seeking a software engineering role that encompasses both front-end and back-end development.  
+  </strong>
+</p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanawuz&layout=compact&theme=tokyonight&column=6&margin-w=5&margin-h=5" alt="HanawuZ" /></a> 
 </p>
 
 ## 👨‍💻 Abilities
-![Fullstack](https://img.shields.io/badge/Fullstack%20Development-cyan?style=for-the-badge)
-![BE](https://img.shields.io/badge/Back-end%20Development-red?style=for-the-badge)
-![FF](https://img.shields.io/badge/Front-end%20Development-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-darkgreen?style=for-the-badge)
+![Fullstack](https://img.shields.io/badge/Full--stack%20Development-cyan?style=for-the-badge)
+![BE](https://img.shields.io/badge/Back--end%20Development-red?style=for-the-badge)
+![FF](https://img.shields.io/badge/Front--end%20Development-blue?style=for-the-badge)
 
 ## 💻 Languages and Tools
 
@@ -38,9 +41,10 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
@@ -58,6 +62,7 @@ Here are some ideas to get you started:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -86,14 +91,22 @@ Here are some ideas to get you started:
 
 ## 📈 Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanawuz&show_icons=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanawuz&layout=compact&theme=react" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanawuz&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanawuz&layout=compact&theme=react&hide_border=true" />
 </div>
 
+
 ## ✨ Red Ribbon Projects ✨
-[![Team 05](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react)](https://github.com/HanawuZ/team05)
-[![Prompt Lab Fe](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react)](https://github.com/promptlabth/promptlab-fe)
-[![FoodFinder BE](https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react)](https://github.com/HanawuZ/foodfinder)
+<div align="center">
+  
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react" height="150"  />](https://github.com/HanawuZ/team05)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react" height="150" />](https://github.com/promptlabth/promptlab-fe)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react" height="150" />](https://github.com/HanawuZ/foodfinder)
+
+
+</div>
+
 
 <!---
 hanawuz/hanawuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
