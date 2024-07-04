@@ -29,42 +29,46 @@ Here are some ideas to get you started:
 
 ## 🙋‍♀️ Let's Connect
 <div align="center">
-  
-<a href="www.linkedin.com/in/thanawut-tuamprajak-479144262"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thanawut_Tuamprajak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanawut-tuamprajak-479144262/)](https://www.linkedin.com/in/thanawut-tuamprajak-479144262/)
+[![Gmail Badge](https://img.shields.io/badge/-thanawut.tuam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thanawut.tuam@gmail.com)](mailto:thanawut.tuam@gmail.com)
 </div>
 
-## 📈 A Stats?
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanawuz&layout=compact&theme=tokyonight&column=6&margin-w=5&margin-h=5" alt="HanawuZ" /></a> 
-</p>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanawuz&theme=react&show_icons=true&count_private=true&hide_title=true&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanawuz&layout=compact&theme=react&hide_border=true" />
-</div>
+## 📈 Stats
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hanawuz&theme=react&show_icons=true&count_private=true&hide_border=true" />
+      <br></br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thanawut Tuamprajak" src="https://github-readme-streak-stats.herokuapp.com/?user=hanawuz&theme=react&hide_border=true" /> 
+    </td>
+    <td width="80%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hanawuz&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=8&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
+<!-- 
 ## 👨‍💻 Abilities
 ![Fullstack](https://img.shields.io/badge/Full--stack%20Development-cyan?style=for-the-badge)
 ![BE](https://img.shields.io/badge/Back--end%20Development-red?style=for-the-badge)
 ![FF](https://img.shields.io/badge/Front--end%20Development-blue?style=for-the-badge)
+-->
 
 ## 💻 Languages and Tools
 
-### Programming languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+### ⌨️ Programming languages
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang logo" title="Go" height="25" /></span>
+<span><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino logo" title="Arduino" height="25" /></span>
+<span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo" title="C" height="25" /></span>
+<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Cpp logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass logo" title="SASS" height="25" /></span>
+
 
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
