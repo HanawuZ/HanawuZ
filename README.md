@@ -100,17 +100,17 @@ Here are some ideas to get you started:
 
 ## ✨ Red Ribbon Projects ✨
 
-<div align="center">
-  
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react" height="150" />](https://github.com/HanawuZ/team05)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react" height="150" />](https://github.com/promptlabth/promptlab-fe)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react" height="150" />](https://github.com/HanawuZ/foodfinder)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react" height="150" />
 
-
-</div>
 
 
 <!---
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react" height="150" style="width: 100%;" />](https://github.com/HanawuZ/team05)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react" height="150" />](https://github.com/promptlabth/promptlab-fe)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react" height="150" />](https://github.com/HanawuZ/foodfinder)
+
 hanawuz/hanawuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
