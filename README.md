@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thanawut_Tuamprajak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thanawut-tuamprajak-479144262/)](https://www.linkedin.com/in/thanawut-tuamprajak-479144262/)
 [![Gmail Badge](https://img.shields.io/badge/-thanawut.tuam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thanawut.tuam@gmail.com)](mailto:thanawut.tuam@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Thanawut_Tuamprajak-gray?style=flat-square&link=https://thanawut-tuamprajak.vercel.app/)](https://thanawut-tuamprajak.vercel.app/)
 </div>
 
 ## 📈 Stats
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 Currently Learning
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⌨️ Languages
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -88,7 +90,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -100,10 +101,19 @@ Here are some ideas to get you started:
 
 ## ✨ Red Ribbon Projects ✨
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=foodfinder&theme=react" height="150" />
-
+<div align="center">
+  <div>
+    <a href="https://github.com/HanawuZ/team05">
+      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react&show_icons=true&include_all_commits=true" align="center" />
+    </a>    
+    <a href="https://github.com/promptlabth/promptlab-fe">
+      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react&show_icons=true&include_all_commits=true" align="center"/>
+    </a>
+  </div>
+  
+</div>
 
 
 <!---
