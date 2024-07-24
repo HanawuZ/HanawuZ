@@ -99,22 +99,6 @@ Here are some ideas to get you started:
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## ✨ Red Ribbon Projects ✨
-
-<div align="center">
-  <div>
-    <a href="https://github.com/HanawuZ/team05">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react&show_icons=true&include_all_commits=true" align="center" />
-    </a>    
-    <a href="https://github.com/promptlabth/promptlab-fe">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=promptlab-fe&theme=react&show_icons=true&include_all_commits=true" align="center"/>
-    </a>
-  </div>
-  
-</div>
-
 
 <!---
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=hanawuz&repo=team05&theme=react" height="150" style="width: 100%;" />](https://github.com/HanawuZ/team05)
